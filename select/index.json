@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キャリィ",
+  "base_artist": "加賀美ハヤト",
+  "createdAt": "2025-12-31T14:14:17.450946Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャリィ",
+      "artist": "加賀美ハヤト",
+      "has_synced": false,
+      "path": "select/pl_01_キャリィ_加賀美ハヤト.txt"
+    }
+  ]
+}
